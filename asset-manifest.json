@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/landalftalk/static/css/main.7f2b1c7a.chunk.css",
+    "main.js": "/landalftalk/static/js/main.7ab5728d.chunk.js",
+    "main.js.map": "/landalftalk/static/js/main.7ab5728d.chunk.js.map",
+    "runtime-main.js": "/landalftalk/static/js/runtime-main.a82f3294.js",
+    "runtime-main.js.map": "/landalftalk/static/js/runtime-main.a82f3294.js.map",
+    "static/js/2.475942a2.chunk.js": "/landalftalk/static/js/2.475942a2.chunk.js",
+    "static/js/2.475942a2.chunk.js.map": "/landalftalk/static/js/2.475942a2.chunk.js.map",
+    "static/js/3.af850107.chunk.js": "/landalftalk/static/js/3.af850107.chunk.js",
+    "static/js/3.af850107.chunk.js.map": "/landalftalk/static/js/3.af850107.chunk.js.map",
+    "index.html": "/landalftalk/index.html",
+    "static/css/main.7f2b1c7a.chunk.css.map": "/landalftalk/static/css/main.7f2b1c7a.chunk.css.map",
+    "static/js/2.475942a2.chunk.js.LICENSE.txt": "/landalftalk/static/js/2.475942a2.chunk.js.LICENSE.txt",
+    "static/media/loading.1e5c69d3.gif": "/landalftalk/static/media/loading.1e5c69d3.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a82f3294.js",
+    "static/js/2.475942a2.chunk.js",
+    "static/css/main.7f2b1c7a.chunk.css",
+    "static/js/main.7ab5728d.chunk.js"
+  ]
+}
